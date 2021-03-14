@@ -1,0 +1,1 @@
+# increase-image-quality
